@@ -1,7 +1,7 @@
 <!-- Banner image for a casino/game/dev theme (replace with your own if you want) -->
 <p align="center">
   <!-- <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80" alt="Casino Game Banner" width="100%" /> -->
-  <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80" alt="Casino Game Banner" width="100%" height="180px" style="object-fit:cover;"/>
+  <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80" alt="Casino Game Banner" width="100%" height="280px" style="object-fit:cover;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Umair Lari</h1>
@@ -20,10 +20,10 @@
 </ul>
 </td>
 <td>
-  <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="developer" width="310"/> -->
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="developer" width="310"/>
   <!-- https://dribbble.com/shots/3151475-Male-Programmer -->
   <!-- <img src="https://cdn.dribbble.com/userupload/12981644/file/original-7d2bfa970e0c5edfa7a3a32ffb45e47a.png?resize=400x0" alt="Male programmer writing program code" width="140"/> -->
-  <img src="https://dribbble.com/shots/3151475-Male-Programmer?resize=400x0" alt="Male programmer writing program code" width="140"/>
+  <!-- <img src="https://dribbble.com/shots/3151475-Male-Programmer?resize=400x0" alt="Male programmer writing program code" width="140"/> -->
 </td>
 </tr>
 </table>
