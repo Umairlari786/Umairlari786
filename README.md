@@ -21,7 +21,9 @@
 </td>
 <td>
   <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="developer" width="310"/> -->
-  <img src="https://cdn.dribbble.com/userupload/12981644/file/original-7d2bfa970e0c5edfa7a3a32ffb45e47a.png?resize=400x0" alt="Male programmer writing program code" width="140"/>
+  <!-- https://dribbble.com/shots/3151475-Male-Programmer -->
+  <!-- <img src="https://cdn.dribbble.com/userupload/12981644/file/original-7d2bfa970e0c5edfa7a3a32ffb45e47a.png?resize=400x0" alt="Male programmer writing program code" width="140"/> -->
+  <img src="https://dribbble.com/shots/3151475-Male-Programmer?resize=400x0" alt="Male programmer writing program code" width="140"/>
 </td>
 </tr>
 </table>
